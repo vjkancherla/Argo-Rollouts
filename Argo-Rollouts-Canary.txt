@@ -58,8 +58,7 @@ create the resources:
 
 
 WHAT ARGO DOES NOW IS:
-    1. it creates a replicaset to spin up the required Pods for the RollOut resource
-
+[1] it creates a replicaset to spin up the required Pods for the RollOut resource
 
 [2] Watching/Monitoring the Rollouts 
 
